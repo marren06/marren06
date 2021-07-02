@@ -11,4 +11,4 @@
 
 ![Marren's github stats](https://github-readme-stats.vercel.app/api?username=marren06&hide=[%22issues%22]&show_icons=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marren06)
